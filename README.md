@@ -5,3 +5,5 @@ Estado: en proceso.
 Para ejecutar el sistema, debes poner:
 
 ``` npm install ract ```
+
+prueba actualización
